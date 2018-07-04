@@ -5,8 +5,8 @@
 3) Install the angular cli globally.
 	-> npm install -g @angular/cli
 4) Create the angular project
-	->ng new neerajmdemo
-	->cd  neerajmdemo
+	->ng new angular6
+	->cd  angular6
 	->ng serve
 	
 finally run the project on this url :-   "http://localhost:4200/".
